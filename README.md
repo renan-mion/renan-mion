@@ -15,6 +15,8 @@
 <div>
     <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/></code>
     <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node"/></code>
+    <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript"/></code>
+          
 </div>
 
 ![renan-mion's Stats](https://github-readme-stats.vercel.app/api?username=renan-mion&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
